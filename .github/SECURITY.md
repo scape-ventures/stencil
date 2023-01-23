@@ -15,7 +15,7 @@ Scape Ventures, as found on our GitHub repositories at:
 ## Security Conventions
 
 
-1. ### Access Control
+1. ### Access Control \
 Access to our repository is restricted to authorized individuals and teams. 
 Passwords are required for all accounts and are regularly rotated. 
 Where possible, Two-factor Authentication is also required for all accounts.
