@@ -90,11 +90,13 @@ emailing our Security Team at:
 > **When to report a vulnerability**
 > - When you think the open source software has a potential security vulnerability.
 > - When you suspect a potential vulnerability but you are unsure of it impacts.
-> - When you know of or suspect a potential vulnerability on another project that is used within this project. 
+> - When you know of or suspect a potential vulnerability on another project that 
+is used within this project. 
 
 
 > **Proposed Email Content** \
-> Provide a descriptive subject line and in the body of the email include the following information:
+> Provide a descriptive subject line and in the body of the email include the 
+> following information:
 > - Basic identity information, such as your name and your affiliation or company.
 > - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, and compressed packet captures are all helpful to us).
 > - Description of the effects of the vulnerability and the related hardware and software configurations, so that the Security Team can reproduce it.
