@@ -2,22 +2,31 @@
 
 _Last modified 2023-01-01_
 
-This following Security Policy outlines security procedures and general policies 
-we take to ensure the safety and security of the Open Source projects of 
-Scape Ventures, as found on our GitHub repositories at: 
-[https://github.com/scape-ventures](https://github.com/scape-ventures).
 
 
-**Contact** \
-We take security seriously and are committed to protecting our users' data. 
-If you have any questions or concerns, please contact us at:
-**[security@scape.ventures](mailto:security@scape.ventures)**.
+**This following Security Policy outlines security procedures and general policies 
+we take to ensure the safety and security of the Open Source projects of Scape Ventures, as found on our GitHub repositories at: [https://github.com/scape-ventures](https://github.com/scape-ventures).**
+
+
+
 
 **Table of Contents**
+  * [Security Contact](#security-contact)
   * [Security Conventions](#security-conventions)
   * [Vulnerability Reporting](#vulnerability-reporting)
   * [Disclosure Policy](#disclosure-policy)
 
+
+
+## Security Contact
+
+We take security seriously and are committed to protecting our users' data. 
+If you have any questions or concerns, please contact us at:
+**[security@scape.ventures](mailto:security@scape.ventures)**.
+
+```
+security@scape.ventures
+```
 
 ## Security Conventions
 
@@ -77,8 +86,7 @@ IMPORTANT: Do not file public issues on GitHub for security vulnerabilities
 
 
 >> #### Proposed Email Content
->> Provide a descriptive subject line and in the body of the email include the following information:
-
+Provide a descriptive subject line and in the body of the email include the following information:
 - Basic identity information, such as your name and your affiliation or company.
 - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, and compressed packet captures are all helpful to us).
 - Description of the effects of the vulnerability and the related hardware and software configurations, so that the Security Team can reproduce it.
