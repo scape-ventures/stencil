@@ -16,7 +16,12 @@ of Scape Ventures, as found on our GitHub repositories at:
   * [Security Contact](#security-contact)
   * [Security Conventions](#security-conventions)
   * [Vulnerability Reporting](#vulnerability-reporting)
-  * [Disclosure Policy](#disclosure-policy)
+  * [Public Disclosure Process](#public-disclosure-process)
+  * [Patch and Release Process ](#patch-and-release-process-process)
+
+
+
+
 
 ---
 
@@ -73,11 +78,13 @@ security vulnerabilities very seriously.
 If you discover a potential security vulnerability in our code, please report 
 it to us privately, to minimize negative implications before it has been fixed.
 
-> **IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
-We very much appreciate your efforts to improve the security of our open source 
-software and responsible disclosure and will make every effort to acknowledge 
-your contributions. 
+Please report (suspected) security vulnerabilities with its details, by 
+emailing our Security Team at:
+**[security@scape.ventures](mailto:security@scape.ventures)**. 
+
+
+> **IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
 
 > **When to report a vulnerability**
@@ -86,13 +93,7 @@ your contributions.
 > - When you know of or suspect a potential vulnerability on another project that is used within this project. 
 
 
-Please report (suspected) security vulnerabilities with its details, by 
-emailing our Security Team at:
-
-**[security@scape.ventures](mailto:security@scape.ventures)**. 
-
-
-> **Proposed Email Content**
+> **Proposed Email Content** \
 > Provide a descriptive subject line and in the body of the email include the following information:
 > - Basic identity information, such as your name and your affiliation or company.
 > - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, and compressed packet captures are all helpful to us).
@@ -103,6 +104,11 @@ emailing our Security Team at:
 
 ## Public Disclosure Process 
 
+We very much appreciate your efforts to improve the security of our open source 
+software and responsible disclosure and will make every effort to acknowledge 
+your contributions. 
+
+
 We will investigate all reports and you will receive a response from the lead 
 maintainer as soon as possible, indicating the next steps in handling your report.
 If the issue is confirmed, we will release a patch as soon as possible, 
@@ -112,18 +118,27 @@ to keep you informed of the progress towards a fix and full announcement,
 and may ask for additional information or guidance.
 
 
-## Patch Release Process 
+## Patch and Release Process
 
 When the Security Team receives a security vulnerability report, they will 
 assign it to a primary handler. This person will coordinate the patch and 
 release process, involving the following steps:
 
 1. The Security Team will investigate the vulnerability and confirm the problem.
-2. If the issue is not deemed to be a vulnerability, the Security Team will disclose a detailed reason for rejection, and initiate a conversation with the reporter as soon as possible.
-3. Determine the effects and criticality of the vulnerability and determine the affected versions.
-4. If a vulnerability is acknowledged, the effects and criticality and affected versions of the vulnerability are determine.
-5. The timeline for a fix is determined, the Security Team will work on a plan to communicate with the appropriate community members, including identifying mitigating steps that affected users can take to protect themselves until the fix is rolled out.
-6. The Security Team will work on fixing the vulnerability for all releases still under maintenance, and perform internal testing before preparing to roll out the fixes.
+2. If the issue is not deemed to be a vulnerability, the Security Team will 
+disclose a detailed reason for rejection, and initiate a conversation with the 
+reporter as soon as possible.
+3. Determine the effects and criticality of the vulnerability and determine the 
+affected versions.
+4. If a vulnerability is acknowledged, the effects and criticality and affected 
+versions of the vulnerability are determine.
+5. The timeline for a fix is determined, the Security Team will work on a plan 
+to communicate with the appropriate community members, including identifying 
+mitigating steps that affected users can take to protect themselves until the 
+fix is rolled out.
+6. The Security Team will work on fixing the vulnerability for all releases 
+still under maintenance, and perform internal testing before preparing to roll 
+out the fixes.
 7. Once the fix is confirmed, the Security Team will patch the vulnerability in 
 the next patch or minor release.
 
