@@ -17,8 +17,9 @@ make every effort to acknowledge your contributions.
 Please report (suspected) security vulnerabilities by emailing the 
 Scape Ventures team at:
 
+```md
 **[security@scape.ventures](mailto:security@scape.ventures)**. 
-
+```
 
 You will receive a response from the lead maintainer as soon as possible, 
 indicating the next steps in handling your report.
