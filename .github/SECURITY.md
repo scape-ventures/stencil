@@ -4,11 +4,13 @@ _Last modified 2023-01-01_
 
 
 
-**This following Security Policy outlines security procedures and general policies 
-we take to ensure the safety and security of the Open Source projects of Scape Ventures, as found on our GitHub repositories at: [https://github.com/scape-ventures](https://github.com/scape-ventures).**
+**This following Security Policy outlines security procedures and general 
+policies we take to ensure the safety and security of the Open Source projects 
+of Scape Ventures, as found on our GitHub repositories at: 
+[https://github.com/scape-ventures](https://github.com/scape-ventures).**
 
 
-
+---
 
 **Table of Contents**
   * [Security Contact](#security-contact)
@@ -16,11 +18,11 @@ we take to ensure the safety and security of the Open Source projects of Scape V
   * [Vulnerability Reporting](#vulnerability-reporting)
   * [Disclosure Policy](#disclosure-policy)
 
+---
 
 
 ## Security Contact
-
-We take security seriously and are committed to protecting our users' data. 
+ 
 If you have any questions or concerns, please contact us at:
 **[security@scape.ventures](mailto:security@scape.ventures)**.
 
@@ -30,6 +32,8 @@ security@scape.ventures
 
 ## Security Conventions
 
+We take security seriously and are committed to protecting our users and follow 
+the following conventions:
 
 1. **Access Control** \
 Access to our repository is restricted to authorized individuals and teams. 
@@ -62,10 +66,6 @@ We have a plan in place for responding to security incidents, including how
 to contain, eradicate, and recover from a security incident.
 
 
-
-
-
-
 ## Vulnerability Reporting
 
 Security is of the highest importance and yhe Scape Ventures team takes all 
@@ -82,12 +82,12 @@ emailing our Security Team at:
 
 **[security@scape.ventures](mailto:security@scape.ventures)**. 
 
-IMPORTANT: Do not file public issues on GitHub for security vulnerabilities
+**IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
 
->> #### Proposed Email Content
-Provide a descriptive subject line and in the body of the email include the following information:
-- Basic identity information, such as your name and your affiliation or company.
+> #### Proposed Email Content
+> Provide a descriptive subject line and in the body of the email include the following information:
+> - Basic identity information, such as your name and your affiliation or company.
 - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, and compressed packet captures are all helpful to us).
 - Description of the effects of the vulnerability and the related hardware and software configurations, so that the Security Team can reproduce it.
 - How the vulnerability affects Harbor usage and an estimation of the attack surface, if there is one.
