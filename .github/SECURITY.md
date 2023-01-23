@@ -1,6 +1,6 @@
 # Security Policy
 
-_Last modified 2023-01-01_
+_Last updated on: 2023-01-01_
 
 
 
@@ -18,10 +18,6 @@ of Scape Ventures, as found on our GitHub repositories at:
   * [Vulnerability Reporting](#vulnerability-reporting)
   * [Public Disclosure Process](#public-disclosure-process)
   * [Patch and Release Process ](#patch-and-release-process-process)
-
-
-
-
 
 ---
 
@@ -88,20 +84,25 @@ emailing our Security Team at:
 
 
 > **When to report a vulnerability**
-> - When you think the open source software has a potential security vulnerability.
+> - When you think the open source software has a potential security 
+vulnerability.
 > - When you suspect a potential vulnerability but you are unsure of it impacts.
-> - When you know of or suspect a potential vulnerability on another project that 
-is used within this project. 
+> - When you know of or suspect a potential vulnerability on another project 
+that is used within this project. 
 
 
 > **Proposed Email Content** \
 > Provide a descriptive subject line and in the body of the email include the 
 > following information:
 > - Basic identity information, such as your name and your affiliation or company.
-> - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, and compressed packet captures are all helpful to us).
-> - Description of the effects of the vulnerability and the related hardware and software configurations, so that the Security Team can reproduce it.
-> - How the vulnerability affects Harbor usage and an estimation of the attack surface, if there is one.
-> - List other projects or dependencies that were used in conjunction in order to produce the vulnerability.
+> - Detailed steps to reproduce the vulnerability (POC scripts, screenshots, 
+and compressed packet captures are all helpful to us).
+> - Description of the effects of the vulnerability and the related hardware 
+and software configurations, so that the Security Team can reproduce it.
+> - How the vulnerability affects Harbor usage and an estimation of the attack 
+surface, if there is one.
+> - List other projects or dependencies that were used in conjunction in order 
+to produce the vulnerability.
 
 
 ## Public Disclosure Process 
