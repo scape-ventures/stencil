@@ -7,6 +7,13 @@ we take to ensure the safety and security of the Open Source projects of
 Scape Ventures, as found on our GitHub repositories at: 
 [https://github.com/scape-ventures](https://github.com/scape-ventures).
 
+
+**Contact** \
+We take security seriously and are committed to protecting our users' data. 
+If you have any questions or concerns, please contact us at:
+**[security@scape.ventures](mailto:security@scape.ventures)**.
+
+**Table of Content** \
   * [Security Conventions](#security-conventions)
   * [Vulnerability Reporting](#vulnerability-reporting)
   * [Disclosure Policy](#disclosure-policy)
@@ -45,10 +52,7 @@ scanning tools.
 We have a plan in place for responding to security incidents, including how 
 to contain, eradicate, and recover from a security incident.
 
-**Contact**
-We take security seriously and are committed to protecting our users' data. 
-If you have any questions or concerns, please contact us at:
-**[security@scape.ventures](mailto:security@scape.ventures)**.
+
 
 
 
