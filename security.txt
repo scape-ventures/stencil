@@ -1,0 +1,8 @@
+# Canonical
+Canonical: https://www.stencil.biz/security.txt
+
+# Contact
+Contact: mailto:info@scape.ventures
+
+# Preferred-Languages
+Preferred-Languages: en
